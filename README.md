@@ -1,4 +1,5 @@
 # React Projects for Beginner
+
 # List-Filter
 
-Using Redux, Axios
+Using TailwindCSS, Redux, Saga, Axios
